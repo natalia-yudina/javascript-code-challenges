@@ -3,7 +3,7 @@ My solutions for course
 [JavaScript Code Challenges](https://www.linkedin.com/learning/javascript-code-challenges) from LinkedIn Learning
 
 - [x] 01_01 Available Books
-- [ ] 01_02 Movie Object
+- [x] 01_02 Movie Object
 - [ ] 01_03 Vegetarian Dinner
 - [ ] 01_04 Technical Books
 - [ ] 01_05 Private Object
