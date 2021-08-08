@@ -2,6 +2,10 @@
 My solutions for course 
 [JavaScript Code Challenges](https://www.linkedin.com/learning/javascript-code-challenges) from LinkedIn Learning
 
+# Instructions
+To run the JavaScript code use [Snippets](https://developer.chrome.com/docs/devtools/javascript/snippets/) feature in Chrome DevTools.
+
+# To do
 - [x] 01_01 Available Books
 - [x] 01_02 Movie Object
 - [ ] 01_03 Vegetarian Dinner
