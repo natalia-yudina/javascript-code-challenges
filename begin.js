@@ -48,4 +48,4 @@ veg_menu.forEach((item) => {
 }
 
 // call function
-// getVegetarian(menu_array);
+getVegetarian(menu_array);
