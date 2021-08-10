@@ -1,6 +1,6 @@
 
 // array of dishes(name, isVegetarian)
-const menu = [
+const menu_array = [
   {
     name: "Chicken parmesan",
     isVegetarian: false,
@@ -39,11 +39,13 @@ const menutext = document.querySelector("#menu");
 const veg_menu = menu.filter(option => option.isVegetarian);
 // dinamically generate list items
 veg_menu.forEach((item) => {
-    console.log(item.name);
+  console.log(item.name);
   let dish = document.createElement("li");
   dish.textContent = item.name;
   menutext.appendChild(dish);
 });
 
 }
-getVegetarian(menu);
+
+// call function
+// getVegetarian(menu_array);
