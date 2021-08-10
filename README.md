@@ -8,8 +8,8 @@ To run the JavaScript code use [Snippets](https://developer.chrome.com/docs/devt
 # To do
 - [x] 01_01 Available Books
 - [x] 01_02 Movie Object
-- [ ] 01_03 Vegetarian Dinner
-- [ ] 01_04 Technical Books
+- [x] 01_03 Vegetarian Dinner
+- [x] 01_04 Technical Books
 - [ ] 01_05 Private Object
 - [ ] 01_06 Ticking Time
 - [ ] 01_07 Classroom Attendance
