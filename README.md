@@ -10,8 +10,8 @@ To run the JavaScript code use [Snippets](https://developer.chrome.com/docs/devt
 - [x] 01_02 Movie Object
 - [x] 01_03 Vegetarian Dinner
 - [x] 01_04 Technical Books
-- [ ] 01_05 Private Object
-- [ ] 01_06 Ticking Time
+- [x] 01_05 Private Object
+- [x] 01_06 Ticking Time
 - [ ] 01_07 Classroom Attendance
 - [ ] 01_08 Dynamic Colors
 - [ ] 01_09 Coffee Calculations
